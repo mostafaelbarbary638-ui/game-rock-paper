@@ -60,6 +60,7 @@ int main()
         }
         else
         {
+            cout << "\n\n\t\t\tthanks see you soon!" ;
             flag = false ;
         }
         return 0;
